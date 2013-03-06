@@ -1,5 +1,5 @@
 {
-    "name": "donniewa/pluginBootstrap",
+    "name": "donniewa/plugin-bootstrap",
     "type": "library",
     "description": "jQuery Plugin Sample - works directly with requireJS",
     "keywords": ["jQuery","plugin", "requireJS"],
