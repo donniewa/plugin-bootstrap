@@ -1,0 +1,20 @@
+{
+    "name": "donniewa/pluginBootstrap",
+    "type": "library",
+    "description": "jQuery Plugin Sample - works directly with requireJS",
+    "keywords": ["jQuery","plugin", "requireJS"],
+    "homepage": "https://github.com/donniewa/pluginBootstrap",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Donald White",
+            "email": "i.am.donald.white@gmail.com",
+            "homepage": "http://www.donniewa.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "components/jquery": "dev-master",
+        "ajbdev/requirejs": "dev-master"
+    }
+}
